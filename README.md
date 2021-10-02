@@ -37,6 +37,6 @@ the port is running at 9300
     
     PART 3
     
-    Created a prometheus.yaml config file by adding csvserver target and mounted the prometheus.yaml inside the container in compose file.
+    Created a prmetheus.yaml config file by adding csvserver target and mounted the prometheus.yaml inside the container in compose file.
     
 
